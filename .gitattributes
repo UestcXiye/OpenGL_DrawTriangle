@@ -1,0 +1,4 @@
+Debug filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawTriangle filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawTriangle.sdf filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawTriangle.sln filter=lfs diff=lfs merge=lfs -text
